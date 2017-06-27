@@ -1,5 +1,6 @@
-Opencast
-========
+<p align="center"><a href="http://www.opencast.org/" target="_blank">
+    <img src="https://cdn.rawgit.com/opencast/opencast/develop/shared-resources/img/logo/opencast.svg">
+</a></p>
 
 Open Source Lecture Capture & Video Management for Education
 
